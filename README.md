@@ -1,3 +1,3 @@
 # Exercicio_Java
 
-Estudando a libguagem Java, pela instituição Fundação Bradesco.
+Estudando a linguagem Java, pela instituição Fundação Bradesco.
